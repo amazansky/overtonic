@@ -1,7 +1,6 @@
 # Overtonic
 Overtonic is a project that aims to use Fast Fourier Transforms (FFTs) to determine the source of a sound based on its overtones. (Science Fair 2018) :musical_note:
 
-Version
 [![Release](https://img.shields.io/github/release/RobotXLabs/overtonic/all.svg?style=for-the-badge)](https://github.com/RobotXLabs/overtonic/releases)
 
 ```
@@ -17,11 +16,11 @@ It looks like the sound you gave me is a SINE WAVE
 ## Dependencies
 1. NumPy
 1. SciPy
-  1. scipy.fftpack
-  1. scipy.io
+   1. scipy.fftpack
+   1. scipy.io
 1. PyLab
 1. MatPlotLib
-  1. matplotlib.pyplot
+   1. matplotlib.pyplot
 1. PeakUtils
 
 ## Acknowledgements
